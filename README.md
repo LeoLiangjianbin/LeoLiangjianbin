@@ -2,8 +2,11 @@
 
 
 
-As a student & digital IC engineer, I am working on digital design and verification. Here in Github, I will post some of my code and notebooks.
+As a student & digital IC engineer, I am working on digital design and verification.  
+Here in Github, I will post some of my code and notebooks.
 
 
-I am also intesrested in open source IC design, such as RISC-V and openlane.
+
+
+My intesrests includes IC design and computer architecture, such as RISC-V architecture and opensource EDA flow.
 
